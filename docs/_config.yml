@@ -1,0 +1,20 @@
+title: C++ 学习笔记
+description: 我的编程成长记录
+theme: jekyll-theme-cayman
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+
+sass:
+  style: compressed
+
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
