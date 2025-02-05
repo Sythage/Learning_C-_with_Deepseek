@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Daily Commit",
+            "type": "shell",
+            "command": "bash",
+            "args": [
+                "-c",
+                "git add . && git commit -m \"${input:commitMessage}\" && git push"
+            ],
+            "problemMatcher": []
+        }
+    ],
+    "inputs": [
+        {
+            "id": "commitMessage",
+            "type": "promptString",
+            "description": "输入今日提交信息"
+        }
+    ]
+}

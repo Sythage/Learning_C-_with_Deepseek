@@ -1,0 +1,9 @@
+{
+    "C_Cpp.clang_format_style": "Google",
+    "editor.formatOnSave": true,
+    "cmake.configureOnOpen": true,
+    "git.autofetch": true,
+    "gitlens.hovers.currentLine.over": "line",
+    "code-runner.runInTerminal": true,
+    "todo-tree.general.tags": ["TODO", "FIXME", "HACK"]
+  }
