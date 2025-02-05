@@ -2,6 +2,7 @@
 title: "GitHub搭建了学习仓库with Deepseek"
 date: 2025-02-05
 tags: ["GitHub", "vscode","Deepseek"]
+layout: defualt # key config 
 ---
 
 ## 问题场景

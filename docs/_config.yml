@@ -1,6 +1,7 @@
+
 title: C++ 学习笔记
 description: 我的编程成长记录
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 markdown: kramdown
 highlighter: rouge
 plugins:
